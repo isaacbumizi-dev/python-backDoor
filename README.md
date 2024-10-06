@@ -5,7 +5,7 @@ How to use it?
 
 First, start the server with the command: python server -lhos="server IP address" -p="server port". Once the client is connected, you can send commands.
 
-Commands to send: Help Menu:
+Commands to send:
 
 1. --help :> show this message
 2. screenshoot :> take a screenshot
