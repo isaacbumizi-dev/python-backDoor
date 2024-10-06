@@ -1,0 +1,5 @@
+opencv-python==4.9.0.80
+pypiwin32==223
+pywin32==306
+colorama==0.4.6
+PyAudio==0.2.14
